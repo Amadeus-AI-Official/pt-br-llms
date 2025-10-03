@@ -41,13 +41,14 @@ Our survey provides a chronological examination of **Brazilian Portuguese LLMs**
    <img src="figures/evolution.png" alt="Chronological evolution of PT-BR-LLM releases" style="width: 100%;">
 </p>
 
-We organize the survey into five main sections:
+We organize the survey into the following main sections:
 
-1. <u>Foundational Components:</u> Reward design, policy optimization, and sampling strategies
-2. <u>Foundational Problems:</u> Key debates and challenges in RL for LRMs
-3. <u>Training Resources:</u> Static corpora, dynamic environments, and infrastructure
-4. <u>Applications:</u> Real-world implementations across diverse domains
-5. <u>Future Directions:</u> Emerging research opportunities and challenges
+1. <u>PT-BR-LLMs produced in 2020</u>
+2. <u>PT-BR-LLMs produced in 2021</u>
+3. <u>PT-BR-LLMs produced in 2022</u>
+4. <u>PT-BR-LLMs produced in 2023</u>
+5. <u>PT-BR-LLMs produced in 2024</u>
+6. <u>PT-BR-LLMs produced in 2025</u>
 
 ## 📄 PT-BR-LLMs List
 
