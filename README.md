@@ -54,5 +54,5 @@ We organize the survey into five main sections:
 ### 2020 Models
 
 | Name | Title | Paper | Github |
-|:-:|:-:|:-|:-:|:-:|
+|:-:|:-|:-:|:-:|
 | `BERT-CRT` | Portuguese Named Entity Recognition using BERT-CRF | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/1909.10649) | [![GitHub Stars](https://img.shields.io/github/stars/InternLM/Intern-S1?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/neuralmind-ai/portuguese-bert) |
