@@ -56,4 +56,4 @@ We organize the survey into the following main sections:
 
 | Name | Title | Paper | Github |
 |:-:|:-|:-:|:-:|
-| `BERT-CRT` | Portuguese Named Entity Recognition using BERT-CRF | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/1909.10649) | [![GitHub Stars](https://img.shields.io/github/stars/InternLM/Intern-S1?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/neuralmind-ai/portuguese-bert) |
+| `BERT-CRT` | Portuguese Named Entity Recognition using BERT-CRF | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/1909.10649) | [![GitHub Stars](https://img.shields.io/github/stars/neuralmind-ai/portuguese-bert?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/neuralmind-ai/portuguese-bert) |
