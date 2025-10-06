@@ -59,4 +59,10 @@ We organize the survey into the following main sections:
 | `BERT-CRT` | Portuguese Named Entity Recognition using BERT-CRF | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/1909.10649) | [![GitHub Stars](https://img.shields.io/github/stars/neuralmind-ai/portuguese-bert?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/neuralmind-ai/portuguese-bert) |
 | `PTT5` | Pretraining and validating the T5 model on Brazilian Portuguese data | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2008.09144) | [![GitHub Stars](https://img.shields.io/github/stars/unicamp-dl/PTT5?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/unicamp-dl/PTT5) |
 | `ELMo and BERT on NER for legal documents` | A Study on the Impact of Intradomain Finetuning of Deep Language Models for Legal Named Entity Recognition in Portuguese | [![Paper](https://img.shields.io/badge/Springer-Link)](https://link.springer.com/chapter/10.1007/978-3-030-61377-8_46) |  |
-| `BERTimbau` | BERTimbau: Pretrained BERT Models for Brazilian Portuguese | [![Paper](https://img.shields.io/badge/Springer-Link)](https://link.springer.com/chapter/10.1007/978-3-030-61377-8_28) | [![GitHub Stars](https://img.shields.io/github/stars/neuralmind-ai/portuguese-bert?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/neuralmind-ai/portuguese-bert) |
+| `BERTimbau` | BERTimbau: Pretrained BERT Models for Brazilian Portuguese | [![Paper](https://img.shields.io/badge/Springer-Link?color=blue)](https://link.springer.com/chapter/10.1007/978-3-030-61377-8_28) | [![GitHub Stars](https://img.shields.io/github/stars/neuralmind-ai/portuguese-bert?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/neuralmind-ai/portuguese-bert) |
+| `BioBERTpt` | BioBERTpt - A Portuguese Neural Language Model for Clinical Named Entity Recognition | [![Paper](https://img.shields.io/badge/ACL-Anthology?color=red)](https://aclanthology.org/2020.clinicalnlp-1.7) | [![GitHub Stars](https://img.shields.io/github/stars/HAILab-PUCPR/BioBERTpt?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/HAILab-PUCPR/BioBERTpt) |
+
+
+
+
+
