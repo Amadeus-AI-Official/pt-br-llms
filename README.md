@@ -31,6 +31,7 @@ If you find this survey helpful, please cite our work:
 - [🗺️ Overview](#️-overview)
 - [📄 PT-BR-LLMs List](#-paper-list)
   - [2020 Models](#2020-models)
+  - [2021 Models](#2021-models)
   
 
 ## 🗺️ Overview
@@ -63,6 +64,10 @@ We organize the survey into the following main sections:
 | `BioBERTpt` | BioBERTpt - A Portuguese Neural Language Model for Clinical Named Entity Recognition | [![Paper](https://img.shields.io/badge/ACL-Anthology?color=red)](https://aclanthology.org/2020.clinicalnlp-1.7) | [![GitHub Stars](https://img.shields.io/github/stars/HAILab-PUCPR/BioBERTpt?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/HAILab-PUCPR/BioBERTpt) |
 
 
+### 2021 Models
 
+| Name | Title | Paper | Github |
+|:-:|:-|:-:|:-:|
+| `GPT2-Bio-Pt` | A GPT-2 Language Model for Biomedical Texts in Portuguese | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=ieee&logoColor=white)](https://doi.org/10.1109/CBMS52027.2021.00056) | [![GitHub Stars](https://img.shields.io/github/stars/HAILab-PUCPR/gpt2-bio-pt?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/HAILab-PUCPR/gpt2-bio-pt) |
 
 
