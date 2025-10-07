@@ -141,7 +141,7 @@ We organize the survey into the following main sections:
 |:-:|:-|:-:|:-:|
 | `BERTweet.BR` | BERTweet.BR: a pre-trained language model for tweets in Portuguese |  | |
 | `DeB3RTa` | DeB3RTa: A Transformer-Based Model for the Portuguese Financial Domain |  | |
-| `Amadeus-Verbo` | Amadeus-Verbo Technical Report: The powerful Qwen2.5 family models trained in Portuguese |  | |
+| `Amadeus-Verbo` | Amadeus-Verbo Technical Report: The powerful Qwen2.5 family models trained in Portuguese |  | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/collections/amadeusai/amadeus-verbo-qwen25-pt-br-powered-by-aws-67cf2e7aae69ce2b3bcdcfda) |
 
 #### without Publication
 | Name | Github |
