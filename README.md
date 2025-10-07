@@ -77,9 +77,9 @@ We organize the survey into the following main sections:
 | `BertBR` | BertBR : a pretrained language model for law texts |  | |
 
 #### without Publication
-| Name | Title | Github |
-|:-:|:-|:-:|
-| `RobertaTwitterBR` |  |  | 
+| Name |  Github |
+|:-:|:-|
+| `RobertaTwitterBR` | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/verissimomanoel/RobertaTwitterBR) | 
 | `GPorTuguese-2` |  |  | 
 | `GPorTuguese-2` |  |  | 
 
