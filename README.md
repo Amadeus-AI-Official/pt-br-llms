@@ -76,6 +76,12 @@ We organize the survey into the following main sections:
 | `BERTaú` | BERTaú: Itaú BERT for digital customer service |  | |
 | `BertBR` | BertBR : a pretrained language model for law texts |  | |
 
+### without Publication
+| Name | Title | Github |
+| `RobertaTwitterBR` |  |  | 
+| `GPorTuguese-2` |  |  | 
+| `GPorTuguese-2` |  |  | 
+
 ### 2022 Models
 
 | Name | Title | Paper | Github |
@@ -97,6 +103,13 @@ We organize the survey into the following main sections:
 | `Albertina PT-*` | Advancing Neural Encoding of Portuguese with Transformer Albertina PT-* |  | |
 | `JurisBERT` | JurisBERT: A New Approach that Converts a Classification Corpus into an STS One |  | |
 
+### without Publication
+| Name | Title | Github |
+| `Canarim` |  |  | 
+| `Caramelo, Caramelinho, and Harpia` |  |  | 
+| `Aira-2` |  |  | 
+| `Alpaca-lora-ptbr` |  |  | 
+
 ### 2024 Models
 
 | Name | Title | Paper | Github |
@@ -112,6 +125,14 @@ We organize the survey into the following main sections:
 | `Tucano` | Tucano: Advancing Neural Text Generation for Portuguese |  | |
 | `RoBERTaLexPT` | RoBERTaLexPT: A Legal RoBERTa Model pretrained with deduplication for Portuguese |  | |
 
+### without Publication
+| Name | Title | Github |
+| `Cabra` |  |  | 
+| `Samba` |  |  | 
+| `Boana` |  |  | 
+| `Mula` |  |  | 
+| `Mambarim` |  |  | 
+
 ### 2025 Models
 
 | Name | Title | Paper | Github |
@@ -119,4 +140,8 @@ We organize the survey into the following main sections:
 | `BERTweet.BR` | BERTweet.BR: a pre-trained language model for tweets in Portuguese |  | |
 | `DeB3RTa` | DeB3RTa: A Transformer-Based Model for the Portuguese Financial Domain |  | |
 | `Amadeus-Verbo` | Amadeus-Verbo Technical Report: The powerful Qwen2.5 family models trained in Portuguese |  | |
+
+### without Publication
+| Name | Title | Github |
+| `GAIA` |  |  | 
 
