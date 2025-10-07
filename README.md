@@ -69,5 +69,9 @@ We organize the survey into the following main sections:
 | Name | Title | Paper | Github |
 |:-:|:-|:-:|:-:|
 | `GPT2-Bio-Pt` | A GPT-2 Language Model for Biomedical Texts in Portuguese | [![Paper](https://img.shields.io/badge/IEEE-Link?color=blue)](https://doi.org/10.1109/CBMS52027.2021.00056) | [![GitHub Stars](https://img.shields.io/github/stars/HAILab-PUCPR/gpt2-bio-pt?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/HAILab-PUCPR/gpt2-bio-pt) |
+| `mRAT-SQL+GAP` | mRAT-SQL+GAP: A Portuguese Text-to-SQL Transformer |  | |
+| `BERTaú` | BERTaú: Itaú BERT for digital customer service |  | |
+| `BertBR` | BertBR : a pretrained language model for law texts |  | |
+
 
 
