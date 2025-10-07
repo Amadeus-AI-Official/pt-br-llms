@@ -127,13 +127,13 @@ We organize the survey into the following main sections:
 | `RoBERTaLexPT` | RoBERTaLexPT: A Legal RoBERTa Model pretrained with deduplication for Portuguese |  | |
 
 #### without Publication
-| Name | Title | Github |
-|:-:|:-|:-:|
-| `Cabra` |  |  | 
-| `Samba` |  |  | 
-| `Boana` |  |  | 
-| `Mula` |  |  | 
-| `Mambarim` |  |  | 
+| Name |  Github |
+|:-:|:-|
+| `Cabra` | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/botbot-ai/Cabra) |  
+| `Samba` | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/lrds-code/samba-1.1B) | 
+| `Boana` | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/lrds-code/boana-7b-instruct) | 
+| `Mula` |  | 
+| `Mambarim` | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/dominguesm/mambarim-110m) | 
 
 ### 2025 Models
 
