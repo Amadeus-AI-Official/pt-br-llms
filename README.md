@@ -32,6 +32,7 @@ If you find this survey helpful, please cite our work:
 - [📄 PT-BR-LLMs List](#-paper-list)
   - [2020 Models](#2020-models)
   - [2021 Models](#2021-models)
+  - [2022 Models](#2022-models)
   
 
 ## 🗺️ Overview
@@ -63,7 +64,6 @@ We organize the survey into the following main sections:
 | `BERTimbau` | BERTimbau: Pretrained BERT Models for Brazilian Portuguese | [![Paper](https://img.shields.io/badge/Springer-Link?color=green)](https://link.springer.com/chapter/10.1007/978-3-030-61377-8_28) | [![GitHub Stars](https://img.shields.io/github/stars/neuralmind-ai/portuguese-bert?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/neuralmind-ai/portuguese-bert) |
 | `BioBERTpt` | BioBERTpt - A Portuguese Neural Language Model for Clinical Named Entity Recognition | [![Paper](https://img.shields.io/badge/ACL-Anthology?color=red)](https://aclanthology.org/2020.clinicalnlp-1.7) | [![GitHub Stars](https://img.shields.io/github/stars/HAILab-PUCPR/BioBERTpt?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/HAILab-PUCPR/BioBERTpt) |
 
-
 ### 2021 Models
 
 | Name | Title | Paper | Github |
@@ -73,5 +73,12 @@ We organize the survey into the following main sections:
 | `BERTaú` | BERTaú: Itaú BERT for digital customer service |  | |
 | `BertBR` | BertBR : a pretrained language model for law texts |  | |
 
+### 2022 Models
 
+| Name | Title | Paper | Github |
+|:-:|:-|:-:|:-:|
+| `PetroBERT` | PetroBERT: A Domain Adaptation Language Model for Oil and Gas Applications in Portuguese |  | |
+| `ZeroBERTo` | ZeroBERTo: Leveraging Zero-Shot Text Classification by Topic Modeling |  | |
+| `BERT models for legal NER` | Fostering Judiciary Applications with New Fine-Tuned Models for Legal Named Entity Recognition in Portuguese |  | |
+| `PTT5-Paraphraser` | PTT5-Paraphraser: Diversity and Meaning Fidelity in Automatic Portuguese Paraphrasing |  | |
 
