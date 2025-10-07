@@ -33,6 +33,9 @@ If you find this survey helpful, please cite our work:
   - [2020 Models](#2020-models)
   - [2021 Models](#2021-models)
   - [2022 Models](#2022-models)
+  - [2023 Models](#2023-models)
+  - [2024 Models](#2024-models)
+  - [2025 Models](#2025-models)
   
 
 ## 🗺️ Overview
@@ -81,4 +84,39 @@ We organize the survey into the following main sections:
 | `ZeroBERTo` | ZeroBERTo: Leveraging Zero-Shot Text Classification by Topic Modeling |  | |
 | `BERT models for legal NER` | Fostering Judiciary Applications with New Fine-Tuned Models for Legal Named Entity Recognition in Portuguese |  | |
 | `PTT5-Paraphraser` | PTT5-Paraphraser: Diversity and Meaning Fidelity in Automatic Portuguese Paraphrasing |  | |
+
+### 2023 Models
+
+| Name | Title | Paper | Github |
+|:-:|:-|:-:|:-:|
+| `Sabiá` | Sabiá: Portuguese Large Language Models |  | |
+| `BERTabaporu` | BERTabaporu: Assessing a Genre-Specific Language Model for Portuguese NLP |  | |
+| `LegalBert-pt` | LegalBert-pt: A Pretrained Language Model for the Brazilian Portuguese Legal Domain |  | |
+| `DeBERTinha` | DeBERTinha: A Multistep Approach to Adapt DebertaV3 XSmall for Brazilian Portuguese Natural Language Processing Task |  | |
+| `Cabrita` | Cabrita: closing the gap for foreign languages |  | |
+| `Albertina PT-*` | Advancing Neural Encoding of Portuguese with Transformer Albertina PT-* |  | |
+| `JurisBERT` | JurisBERT: A New Approach that Converts a Classification Corpus into an STS One |  | |
+
+### 2024 Models
+
+| Name | Title | Paper | Github |
+|:-:|:-|:-:|:-:|
+| `TeenyTinyLlama` | TeenyTinyLlama: Open-source tiny language models trained in Brazilian Portuguese |  | |
+| `PeLLE` | PeLLE: Encoder-based language models for Brazilian Portuguese based on open data |  | |
+| `Sabiá-2` | Sabiá-2: A New Generation of Portuguese Large Language Models |  | |
+| `Bode` | Introducing Bode: A Fine-Tuned Large Language Model for Portuguese Prompt-Based Task |  | |
+| `Juru` | Juru: Legal Brazilian Large Language Model from Reputable Sources |  | |
+| `ptt5-v2 / MonoT5` | ptt5-v2: A Closer Look at Continued Pretraining of T5 Models for the Portuguese Language |  | |
+| `Gervácio` | Advancing Generative AI for Portuguese with Open Decoder Gervásio PT* |  | |
+| `Sabiá-3 / Sabiazinho-3` | Sabiá-3 Technical Report |  | |
+| `Tucano` | Tucano: Advancing Neural Text Generation for Portuguese |  | |
+| `RoBERTaLexPT` | RoBERTaLexPT: A Legal RoBERTa Model pretrained with deduplication for Portuguese |  | |
+
+### 2025 Models
+
+| Name | Title | Paper | Github |
+|:-:|:-|:-:|:-:|
+| `BERTweet.BR` | BERTweet.BR: a pre-trained language model for tweets in Portuguese |  | |
+| `DeB3RTa` | DeB3RTa: A Transformer-Based Model for the Portuguese Financial Domain |  | |
+| `Amadeus-Verbo` | Amadeus-Verbo Technical Report: The powerful Qwen2.5 family models trained in Portuguese |  | |
 
