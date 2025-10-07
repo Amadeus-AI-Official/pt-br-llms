@@ -76,7 +76,7 @@ We organize the survey into the following main sections:
 | `BERTaú` | BERTaú: Itaú BERT for digital customer service |  | |
 | `BertBR` | BertBR : a pretrained language model for law texts |  | |
 
-### without Publication
+#### without Publication
 | Name | Title | Github |
 |:-:|:-|:-:|
 | `RobertaTwitterBR` |  |  | 
@@ -104,7 +104,7 @@ We organize the survey into the following main sections:
 | `Albertina PT-*` | Advancing Neural Encoding of Portuguese with Transformer Albertina PT-* |  | |
 | `JurisBERT` | JurisBERT: A New Approach that Converts a Classification Corpus into an STS One |  | |
 
-### without Publication
+#### without Publication
 | Name | Title | Github |
 |:-:|:-|:-:|
 | `Canarim` |  |  | 
@@ -127,7 +127,7 @@ We organize the survey into the following main sections:
 | `Tucano` | Tucano: Advancing Neural Text Generation for Portuguese |  | |
 | `RoBERTaLexPT` | RoBERTaLexPT: A Legal RoBERTa Model pretrained with deduplication for Portuguese |  | |
 
-### without Publication
+#### without Publication
 | Name | Title | Github |
 |:-:|:-|:-:|
 | `Cabra` |  |  | 
@@ -144,7 +144,7 @@ We organize the survey into the following main sections:
 | `DeB3RTa` | DeB3RTa: A Transformer-Based Model for the Portuguese Financial Domain |  | |
 | `Amadeus-Verbo` | Amadeus-Verbo Technical Report: The powerful Qwen2.5 family models trained in Portuguese |  | |
 
-### without Publication
+#### without Publication
 | Name | Title | Github |
 |:-:|:-|:-:|
 | `GAIA` |  |  | 
