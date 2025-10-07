@@ -78,6 +78,7 @@ We organize the survey into the following main sections:
 
 ### without Publication
 | Name | Title | Github |
+|:-:|:-|:-:|
 | `RobertaTwitterBR` |  |  | 
 | `GPorTuguese-2` |  |  | 
 | `GPorTuguese-2` |  |  | 
@@ -105,6 +106,7 @@ We organize the survey into the following main sections:
 
 ### without Publication
 | Name | Title | Github |
+|:-:|:-|:-:|
 | `Canarim` |  |  | 
 | `Caramelo, Caramelinho, and Harpia` |  |  | 
 | `Aira-2` |  |  | 
@@ -127,6 +129,7 @@ We organize the survey into the following main sections:
 
 ### without Publication
 | Name | Title | Github |
+|:-:|:-|:-:|
 | `Cabra` |  |  | 
 | `Samba` |  |  | 
 | `Boana` |  |  | 
@@ -143,5 +146,6 @@ We organize the survey into the following main sections:
 
 ### without Publication
 | Name | Title | Github |
+|:-:|:-|:-:|
 | `GAIA` |  |  | 
 
