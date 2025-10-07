@@ -80,8 +80,7 @@ We organize the survey into the following main sections:
 | Name |  Github |
 |:-:|:-|
 | `RobertaTwitterBR` | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/verissimomanoel/RobertaTwitterBR) | 
-| `GPorTuguese-2` |  |  | 
-| `GPorTuguese-2` |  |  | 
+| `GPorTuguese-2` | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/pierreguillou/gpt2-small-portuguese) |  
 
 ### 2022 Models
 
