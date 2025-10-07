@@ -96,12 +96,12 @@ We organize the survey into the following main sections:
 | Name | Title | Paper | Github |
 |:-:|:-|:-:|:-:|
 | `Sabiá` | Sabiá: Portuguese Large Language Models |  | |
-| `BERTabaporu` | BERTabaporu: Assessing a Genre-Specific Language Model for Portuguese NLP |  | |
-| `LegalBert-pt` | LegalBert-pt: A Pretrained Language Model for the Brazilian Portuguese Legal Domain |  | |
-| `DeBERTinha` | DeBERTinha: A Multistep Approach to Adapt DebertaV3 XSmall for Brazilian Portuguese Natural Language Processing Task |  | |
-| `Cabrita` | Cabrita: closing the gap for foreign languages |  | |
-| `Albertina PT-*` | Advancing Neural Encoding of Portuguese with Transformer Albertina PT-* |  | |
-| `JurisBERT` | JurisBERT: A New Approach that Converts a Classification Corpus into an STS One |  | |
+| `BERTabaporu` | BERTabaporu: Assessing a Genre-Specific Language Model for Portuguese NLP |  | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/pablocosta/bertabaporu-base-uncased) |
+| `LegalBert-pt` | LegalBert-pt: A Pretrained Language Model for the Brazilian Portuguese Legal Domain |  | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/raquelsilveira/legalbertpt\fp) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/raquelsilveira/legalbertpt\sc) |
+| `DeBERTinha` | DeBERTinha: A Multistep Approach to Adapt DebertaV3 XSmall for Brazilian Portuguese Natural Language Processing Task |  | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/sagui-nlp/debertinha-ptbr-xsmall) |
+| `Cabrita` | Cabrita: closing the gap for foreign languages |  | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/22h/open-cabrita3b) |
+| `Albertina PT-*` | Advancing Neural Encoding of Portuguese with Transformer Albertina PT-* |  | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/PORTULAN/albertina-900m-portuguese-ptbr-encoder-brwac) |
+| `JurisBERT` | JurisBERT: A New Approach that Converts a Classification Corpus into an STS One |  | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/alfaneo) |
 
 #### without Publication
 | Name |  Github |
@@ -118,12 +118,12 @@ We organize the survey into the following main sections:
 | `TeenyTinyLlama` | TeenyTinyLlama: Open-source tiny language models trained in Brazilian Portuguese |  | |
 | `PeLLE` | PeLLE: Encoder-based language models for Brazilian Portuguese based on open data |  | |
 | `Sabiá-2` | Sabiá-2: A New Generation of Portuguese Large Language Models |  | |
-| `Bode` | Introducing Bode: A Fine-Tuned Large Language Model for Portuguese Prompt-Based Task |  | |
+| `Bode` | Introducing Bode: A Fine-Tuned Large Language Model for Portuguese Prompt-Based Task |  | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/collections/recogna-nlp/bode-llm-em-portugues-65b97aa411162bf34f8da221) |
 | `Juru` | Juru: Legal Brazilian Large Language Model from Reputable Sources |  | |
-| `ptt5-v2 / MonoT5` | ptt5-v2: A Closer Look at Continued Pretraining of T5 Models for the Portuguese Language |  | |
-| `Gervácio` | Advancing Generative AI for Portuguese with Open Decoder Gervásio PT* |  | |
+| `ptt5-v2 / MonoT5` | ptt5-v2: A Closer Look at Continued Pretraining of T5 Models for the Portuguese Language |  | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/unicamp-dl) |
+| `Gervácio` | Advancing Generative AI for Portuguese with Open Decoder Gervásio PT* |  | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/PORTULAN/gervasio-7b-portuguese-ptbr-decoder) |
 | `Sabiá-3 / Sabiazinho-3` | Sabiá-3 Technical Report |  | |
-| `Tucano` | Tucano: Advancing Neural Text Generation for Portuguese |  | |
+| `Tucano` | Tucano: Advancing Neural Text Generation for Portuguese |  | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/TucanoBR) |
 | `RoBERTaLexPT` | RoBERTaLexPT: A Legal RoBERTa Model pretrained with deduplication for Portuguese |  | |
 
 #### without Publication
@@ -139,8 +139,8 @@ We organize the survey into the following main sections:
 
 | Name | Title | Paper | Github |
 |:-:|:-|:-:|:-:|
-| `BERTweet.BR` | BERTweet.BR: a pre-trained language model for tweets in Portuguese |  | |
-| `DeB3RTa` | DeB3RTa: A Transformer-Based Model for the Portuguese Financial Domain |  | |
+| `BERTweet.BR` | BERTweet.BR: a pre-trained language model for tweets in Portuguese |  | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/melll-uff/bertweetbr) |
+| `DeB3RTa` | DeB3RTa: A Transformer-Based Model for the Portuguese Financial Domain |  | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/higopires/DeB3RTa-base) |
 | `Amadeus-Verbo` | Amadeus-Verbo Technical Report: The powerful Qwen2.5 family models trained in Portuguese |  | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/collections/amadeusai/amadeus-verbo-qwen25-pt-br-powered-by-aws-67cf2e7aae69ce2b3bcdcfda) |
 
 #### without Publication
