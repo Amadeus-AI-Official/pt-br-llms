@@ -144,7 +144,7 @@ We organize the survey into the following main sections:
 | `Amadeus-Verbo` | Amadeus-Verbo Technical Report: The powerful Qwen2.5 family models trained in Portuguese |  | |
 
 #### without Publication
-| Name | Title | Github |
-|:-:|:-|:-:|
-| `GAIA` |  |  | 
+| Name | Github |
+|:-:|:-|
+| `GAIA` | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/CEIA-UFG/Gemma-3-Gaia-PT-BR-4b-it) | 
 
