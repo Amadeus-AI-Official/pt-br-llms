@@ -104,12 +104,12 @@ We organize the survey into the following main sections:
 | `JurisBERT` | JurisBERT: A New Approach that Converts a Classification Corpus into an STS One |  | |
 
 #### without Publication
-| Name | Title | Github |
-|:-:|:-|:-:|
-| `Canarim` |  |  | 
-| `Caramelo, Caramelinho, and Harpia` |  |  | 
-| `Aira-2` |  |  | 
-| `Alpaca-lora-ptbr` |  |  | 
+| Name |  Github |
+|:-:|:-|
+| `Canarim` | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/collections/dominguesm/canarim-models-657efdf4f5eacd4bda0cb77b) |  
+| `Caramelo, Caramelinho, and Harpia` | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/Bruno) |  
+| `Aira-2` | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/nicholasKluge) |  
+| `Alpaca-lora-ptbr` | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/dominguesm/alpaca-lora-ptbr-7b) |  
 
 ### 2024 Models
 
