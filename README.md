@@ -115,7 +115,7 @@ We organize the survey into the following main sections:
 
 | Name | Title | Paper | Github |
 |:-:|:-|:-:|:-:|
-| `TeenyTinyLlama` | TeenyTinyLlama: Open-source tiny language models trained in Brazilian Portuguese |  | |
+| `TeenyTinyLlama` | TeenyTinyLlama: Open-source tiny language models trained in Brazilian Portuguese | [![Paper](https://img.shields.io/badge/ScienceDirect-Link?color=orange)](http://dx.doi.org/10.1016/j.mlwa.2024.100558) | [![GitHub Stars](https://img.shields.io/github/stars/Nkluge-correa/TeenyTinyLlama?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/Nkluge-correa/TeenyTinyLlama) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/collections/nicholasKluge/teenytinyllama-6582ea8129e72d1ea4d384f1) |
 | `PeLLE` | PeLLE: Encoder-based language models for Brazilian Portuguese based on open data |  | |
 | `Sabiá-2` | Sabiá-2: A New Generation of Portuguese Large Language Models |  | |
 | `Bode` | Introducing Bode: A Fine-Tuned Large Language Model for Portuguese Prompt-Based Task |  | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/collections/recogna-nlp/bode-llm-em-portugues-65b97aa411162bf34f8da221) |
