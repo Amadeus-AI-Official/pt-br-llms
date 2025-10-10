@@ -124,7 +124,7 @@ We organize the survey into the following main sections:
 | `Gervácio` | Advancing Generative AI for Portuguese with Open Decoder Gervásio PT* | [![Paper](https://img.shields.io/badge/ACL-Anthology?color=red)](https://aclanthology.org/2024.sigul-1.3) | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/PORTULAN/gervasio-7b-portuguese-ptbr-decoder) |
 | `Sabiá-3 / Sabiazinho-3` | Sabiá-3 Technical Report | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2410.12049) | |
 | `Tucano` | Tucano: Advancing Neural Text Generation for Portuguese | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2411.07854) [![Paper](https://img.shields.io/badge/ScienceDirect-Link?color=orange)](https://doi.org/10.1016/j.patter.2025.101325) | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/TucanoBR) |
-| `RoBERTaLexPT` | RoBERTaLexPT: A Legal RoBERTa Model pretrained with deduplication for Portuguese |  | |
+| `RoBERTaLexPT` | RoBERTaLexPT: A Legal RoBERTa Model pretrained with deduplication for Portuguese | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://aclanthology.org/2024.propor-1.38) | |
 
 #### without Publication
 | Name |  Github |
