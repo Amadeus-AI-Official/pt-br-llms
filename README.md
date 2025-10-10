@@ -121,9 +121,15 @@ We organize the survey into the following main sections:
 | `Bode` | Introducing Bode: A Fine-Tuned Large Language Model for Portuguese Prompt-Based Task | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2401.02909) | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/collections/recogna-nlp/bode-llm-em-portugues-65b97aa411162bf34f8da221) |
 | `Juru` | Juru: Legal Brazilian Large Language Model from Reputable Sources | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2403.18140) | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/roseval/Juru-7B) |
 | `ptt5-v2 / MonoT5` | ptt5-v2: A Closer Look at Continued Pretraining of T5 Models for the Portuguese Language | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2406.10806) [![Paper](https://img.shields.io/badge/ACM-Link?color=gray)](https://doi.org/10.1007/978-3-031-79032-4_23) | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/unicamp-dl) |
-| `Gervácio` | Advancing Generative AI for Portuguese with Open Decoder Gervásio PT* |  | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/PORTULAN/gervasio-7b-portuguese-ptbr-decoder) |
-| `Sabiá-3 / Sabiazinho-3` | Sabiá-3 Technical Report |  | |
-| `Tucano` | Tucano: Advancing Neural Text Generation for Portuguese |  | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/TucanoBR) |
+| `Gervácio` | Advancing Generative AI for Portuguese with Open Decoder Gervásio PT* | [![Paper](https://img.shields.io/badge/ACL-Anthology?color=red)](https://aclanthology.org/2024.sigul-1.3) | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/PORTULAN/gervasio-7b-portuguese-ptbr-decoder) |
+| `Sabiá-3 / Sabiazinho-3` | Sabiá-3 Technical Report | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2410.12049) | |
+| `Tucano` | Tucano: Advancing Neural Text Generation for Portuguese | 
+
+
+
+
+
+| [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/TucanoBR) |
 | `RoBERTaLexPT` | RoBERTaLexPT: A Legal RoBERTa Model pretrained with deduplication for Portuguese |  | |
 
 #### without Publication
