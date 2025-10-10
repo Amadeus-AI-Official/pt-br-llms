@@ -86,8 +86,8 @@ We organize the survey into the following main sections:
 
 | Name | Title | Paper | Github |
 |:-:|:-|:-:|:-:|
-| `PetroBERT` | PetroBERT: A Domain Adaptation Language Model for Oil and Gas Applications in Portuguese |  | |
-| `ZeroBERTo` | ZeroBERTo: Leveraging Zero-Shot Text Classification by Topic Modeling |  | |
+| `PetroBERT` | PetroBERT: A Domain Adaptation Language Model for Oil and Gas Applications in Portuguese | [![Paper](https://img.shields.io/badge/Springer-Link?color=green)](https://doi.org/10.1007/978-3-030-98305-5_10) | |
+| `ZeroBERTo` | ZeroBERTo: Leveraging Zero-Shot Text Classification by Topic Modeling | [![Paper](https://img.shields.io/badge/Springer-Link?color=green)](https://doi.org/10.1007/978-3-030-98305-5_12) | |
 | `BERT models for legal NER` | Fostering Judiciary Applications with New Fine-Tuned Models for Legal Named Entity Recognition in Portuguese |  | |
 | `PTT5-Paraphraser` | PTT5-Paraphraser: Diversity and Meaning Fidelity in Automatic Portuguese Paraphrasing |  | |
 
