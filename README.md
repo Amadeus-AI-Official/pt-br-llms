@@ -88,8 +88,8 @@ We organize the survey into the following main sections:
 |:-:|:-|:-:|:-:|
 | `PetroBERT` | PetroBERT: A Domain Adaptation Language Model for Oil and Gas Applications in Portuguese | [![Paper](https://img.shields.io/badge/Springer-Link?color=green)](https://doi.org/10.1007/978-3-030-98305-5_10) | |
 | `ZeroBERTo` | ZeroBERTo: Leveraging Zero-Shot Text Classification by Topic Modeling | [![Paper](https://img.shields.io/badge/Springer-Link?color=green)](https://doi.org/10.1007/978-3-030-98305-5_12) | |
-| `BERT models for legal NER` | Fostering Judiciary Applications with New Fine-Tuned Models for Legal Named Entity Recognition in Portuguese |  | |
-| `PTT5-Paraphraser` | PTT5-Paraphraser: Diversity and Meaning Fidelity in Automatic Portuguese Paraphrasing |  | |
+| `BERT models for legal NER` | Fostering Judiciary Applications with New Fine-Tuned Models for Legal Named Entity Recognition in Portuguese | [![Paper](https://img.shields.io/badge/Springer-Link?color=green)](https://doi.org/10.1007/978-3-030-98305-5_21) | |
+| `PTT5-Paraphraser` | PTT5-Paraphraser: Diversity and Meaning Fidelity in Automatic Portuguese Paraphrasing | [![Paper](https://img.shields.io/badge/Springer-Link?color=green)](https://doi.org/10.1007/978-3-030-98305-5_28) | [![GitHub Stars](https://img.shields.io/github/stars/lucasfaop/ptt5_paraphraser?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/lucasfaop/ptt5_paraphraser) |
 
 ### 2023 Models
 
