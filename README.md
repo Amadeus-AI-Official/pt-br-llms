@@ -73,7 +73,7 @@ We organize the survey into the following main sections:
 |:-:|:-|:-:|:-:|
 | `GPT2-Bio-Pt` | A GPT-2 Language Model for Biomedical Texts in Portuguese | [![Paper](https://img.shields.io/badge/IEEE-Link?color=blue)](https://doi.org/10.1109/CBMS52027.2021.00056) | [![GitHub Stars](https://img.shields.io/github/stars/HAILab-PUCPR/gpt2-bio-pt?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/HAILab-PUCPR/gpt2-bio-pt) |
 | `mRAT-SQL+GAP` | mRAT-SQL+GAP: A Portuguese Text-to-SQL Transformer | [![Paper](https://img.shields.io/badge/Springer-Link?color=green)](https://doi.org/10.1007/978-3-030-91699-2_35) | [![GitHub Stars](https://img.shields.io/github/stars/C4AI/gap-text2sql?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/C4AI/gap-text2sql) |
-| `BERTaú` | BERTaú: Itaú BERT for digital customer service |  | |
+| `BERTaú` | BERTaú: Itaú BERT for digital customer service | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2101.12015) | |
 | `BertBR` | BertBR : a pretrained language model for law texts |  | |
 
 #### without Publication
