@@ -139,9 +139,9 @@ We organize the survey into the following main sections:
 
 | Name | Title | Paper | Github |
 |:-:|:-|:-:|:-:|
-| `BERTweet.BR` | BERTweet.BR: a pre-trained language model for tweets in Portuguese |  | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/melll-uff/bertweetbr) |
-| `DeB3RTa` | DeB3RTa: A Transformer-Based Model for the Portuguese Financial Domain |  | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/higopires/DeB3RTa-base) |
-| `Amadeus-Verbo` | Amadeus-Verbo Technical Report: The powerful Qwen2.5 family models trained in Portuguese |  | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/collections/amadeusai/amadeus-verbo-qwen25-pt-br-powered-by-aws-67cf2e7aae69ce2b3bcdcfda) |
+| `BERTweet.BR` | BERTweet.BR: a pre-trained language model for tweets in Portuguese | [![Paper](https://img.shields.io/badge/Springer-Link?color=green)](https://doi.org/10.1007/s00521-024-10711-3) | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/melll-uff/bertweetbr) |
+| `DeB3RTa` | DeB3RTa: A Transformer-Based Model for the Portuguese Financial Domain | [![Paper](https://img.shields.io/badge/MDPI-Link?color=grey)](https://www.mdpi.com/2504-2289/9/3/51) | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/higopires/DeB3RTa-base) |
+| `Amadeus-Verbo` | Amadeus-Verbo Technical Report: The powerful Qwen2.5 family models trained in Portuguese | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2506.00019) | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/collections/amadeusai/amadeus-verbo-qwen25-pt-br-powered-by-aws-67cf2e7aae69ce2b3bcdcfda) |
 
 #### without Publication
 | Name | Github |
