@@ -29,7 +29,7 @@ If you find this survey helpful, please cite our work:
 - [🎈 Citation](#-citation)
 - [📖 Contents](#-contents)
 - [🗺️ Overview](#️-overview)
-- [📄 PT-BR-LLMs List](#-paper-list)
+- [📄 PT-BR-LLMs List](#pt-br-llms-list)
   - [2020 Models](#2020-models)
   - [2021 Models](#2021-models)
   - [2022 Models](#2022-models)
