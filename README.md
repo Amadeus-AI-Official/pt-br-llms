@@ -8,7 +8,7 @@
 
 ## 🎉 News
 
-- **[2025-xx-xx]** 🔥 We are excited to introduce our chronological survey that collects papers and projects on Brazilian Portuguese LLMs!
+- **[2025-10-24]** 🔥 We are excited to introduce our chronological survey that collects papers and projects on Brazilian Portuguese LLMs!
 
 ## 🎈 Citation
 
