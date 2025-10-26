@@ -15,11 +15,17 @@
 If you find this survey helpful, please cite our work:
 
 ```bibtex
-@article{2025survey,
-  title={},
-  author={Others},
-  journal={},
-  year={2025}
+@article{Cruz-Castañeda_Amadeus_2025,
+  title={Large Languages Models in Brazilian Portuguese: A Chronological Survey},
+  volume={31},
+  url={https://journals-sol.sbc.org.br/index.php/jbcs/article/view/5789},
+  DOI={10.5753/jbcs.2025.5789},
+  number={1},
+  journal={Journal of the Brazilian Computer Society},
+  author={Cruz-Castañeda, William Alberto and Amadeus, Marcellus},
+  year={2025},
+  month={Oct.},
+  pages={1168–1187}
 }
 ```
 
