@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="figures/ptbrllms.png" style="width: 70%;"/>
+<img src="figures/ptbrllms.jpg" style="width: 70%;"/>
 
 ## Large Languages Models in Brazilian Portuguese: A Chronological Survey
 
