@@ -47,7 +47,7 @@ If you find this survey helpful, please cite our work:
 Our survey provides a chronological examination of **Brazilian Portuguese LLMs**.
 
 <p align="center">
-   <img src="figures/evolution.png" alt="Chronological evolution of PT-BR-LLM releases" style="width: 100%;">
+  <img width="3284" height="1673" alt="Image" src="https://github.com/user-attachments/assets/d3a18c68-1a32-4646-876f-1fc7543e7578" />
 </p>
 
 We organize the survey into the following main sections:
