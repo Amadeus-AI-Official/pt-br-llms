@@ -1,4 +1,3 @@
-![Logo](/figures/ptbrllms.png)
 <div align="center">
 
 <img src="https://github.com/Amadeus-AI-Official/pt-br-llms/blob/main/figures/ptbrllms.png" style="width: 70%;"/>
