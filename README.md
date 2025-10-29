@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="https://github.com/Amadeus-AI-Official/pt-br-llms/blob/main/figures/ptbrllms.png" style="width: 70%;"/>
+<img width="4185" height="361" alt="Image" src="https://github.com/user-attachments/assets/97f7235c-d2c1-4b31-b305-13db58879d43" />
 
 ## Large Languages Models in Brazilian Portuguese: A Chronological Survey
 
