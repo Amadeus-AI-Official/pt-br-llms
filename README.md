@@ -131,7 +131,7 @@ We organize the survey into the following main sections:
 | `Sabiá-3 / Sabiazinho-3` | Sabiá-3 Technical Report | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2410.12049) | |
 | `Tucano` | Tucano: Advancing Neural Text Generation for Portuguese | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2411.07854) [![Paper](https://img.shields.io/badge/ScienceDirect-Link?color=orange)](https://doi.org/10.1016/j.patter.2025.101325) | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/TucanoBR) |
 | `RoBERTaLexPT` | RoBERTaLexPT: A Legal RoBERTa Model pretrained with deduplication for Portuguese | [![Paper](https://img.shields.io/badge/ACL-Anthology?color=red)](https://aclanthology.org/2024.propor-1.38) | |
-| `DepreBERTBR` | DepreBERTBR: Um Modelo de Linguagem Pré-treinado para o Domínio da Depressão no Idioma Português Brasileiro | [![Paper](https://img.shields.io/badge/SBC?color=red)](https://doi.org/10.5753/sbbd.2024.240807) | |
+| `DepreBERTBR` | DepreBERTBR: Um Modelo de Linguagem Pré-treinado para o Domínio da Depressão no Idioma Português Brasileiro | [![Paper](https://img.shields.io/badge/SBC-link?color=red)](https://doi.org/10.5753/sbbd.2024.240807) | |
 
 #### without Publication
 | Name |  Github |
