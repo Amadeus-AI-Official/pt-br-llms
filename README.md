@@ -8,6 +8,7 @@
 ## 🎉 News
 
 - **[2025-10-24]** 🔥 We are excited to introduce our chronological survey that collects papers and projects on Brazilian Portuguese LLMs!
+- **[2025-12-31]** 🎉 We update the list of papers of the survey! (CardioBERTpt, MedGemma-Sum-Pt, DepreBERTBR, Carcará, Curió, Pajeu)
 
 ## 🎈 Citation
 
@@ -106,6 +107,7 @@ We organize the survey into the following main sections:
 | `Cabrita` | Cabrita: closing the gap for foreign languages | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2308.11878) | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/22h/open-cabrita3b) |
 | `Albertina PT-*` | Advancing Neural Encoding of Portuguese with Transformer Albertina PT-* | [![Paper](https://img.shields.io/badge/Springer-Link?color=green)](http://dx.doi.org/10.1007/978-3-031-49008-8_35) | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/PORTULAN/albertina-900m-portuguese-ptbr-encoder-brwac) |
 | `JurisBERT` | JurisBERT: A New Approach that Converts a Classification Corpus into an STS One | [![Paper](https://img.shields.io/badge/Springer-Link?color=green)](https://doi.org/10.1007/978-3-031-36805-9_24) | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/alfaneo) |
+| `CardioBERTpt` | CardioBERTpt: Transformer-based Models for Cardiology Language Representation in Portuguese | [![Paper](https://img.shields.io/badge/IEEE-Link?color=blue)](https://doi.org/10.1109/CBMS58004.2023.00247) | [![GitHub Stars](https://img.shields.io/github/stars/HAILab-PUCPR/CardioBERTpt?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/HAILab-PUCPR/CardioBERTpt) | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/pucpr-br/cardiobertpt) |
 
 #### without Publication
 | Name |  Github |
@@ -129,6 +131,7 @@ We organize the survey into the following main sections:
 | `Sabiá-3 / Sabiazinho-3` | Sabiá-3 Technical Report | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2410.12049) | |
 | `Tucano` | Tucano: Advancing Neural Text Generation for Portuguese | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2411.07854) [![Paper](https://img.shields.io/badge/ScienceDirect-Link?color=orange)](https://doi.org/10.1016/j.patter.2025.101325) | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/TucanoBR) |
 | `RoBERTaLexPT` | RoBERTaLexPT: A Legal RoBERTa Model pretrained with deduplication for Portuguese | [![Paper](https://img.shields.io/badge/ACL-Anthology?color=red)](https://aclanthology.org/2024.propor-1.38) | |
+| `DepreBERTBR` | DepreBERTBR: Um Modelo de Linguagem Pré-treinado para o Domínio da Depressão no Idioma Português Brasileiro | [![Paper](https://img.shields.io/badge/SBC?color=red)](https://doi.org/10.5753/sbbd.2024.240807) | |
 
 #### without Publication
 | Name |  Github |
@@ -147,6 +150,10 @@ We organize the survey into the following main sections:
 | `BERTweet.BR` | BERTweet.BR: a pre-trained language model for tweets in Portuguese | [![Paper](https://img.shields.io/badge/Springer-Link?color=green)](https://doi.org/10.1007/s00521-024-10711-3) | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/melll-uff/bertweetbr) |
 | `DeB3RTa` | DeB3RTa: A Transformer-Based Model for the Portuguese Financial Domain | [![Paper](https://img.shields.io/badge/MDPI-Link?color=grey)](https://www.mdpi.com/2504-2289/9/3/51) | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/higopires/DeB3RTa-base) |
 | `Amadeus-Verbo` | Amadeus-Verbo Technical Report: The powerful Qwen2.5 family models trained in Portuguese | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2506.00019) | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/collections/amadeusai/amadeus-verbo-qwen25-pt-br-powered-by-aws-67cf2e7aae69ce2b3bcdcfda) |
+| `MedGemma-Sum-Pt` | MedGemma-Sum-Pt: A lightweight model for portuguese clinical summarization | [![Paper](https://img.shields.io/badge/ETS?color=red)](https://espace2.etsmtl.ca/id/eprint/32952) | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/pucpr-br/medgemma-pt-finetuned-multiclinsum) |
+| `Carcará` | Efficient Deployment of a 685B-Parameter OpenSource LLM on the Brazilian Santos Dumont Supercomputer | [![Paper](https://img.shields.io/badge/ETS?color=red)](https://espace2.etsmtl.ca/id/eprint/32952) | [![GitHub Stars](https://img.shields.io/github/stars/gmmsb-lncc/carcara-sdumont?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/gmmsb-lncc/carcara-sdumont) | 
+| `Curió` | Building High-Quality Datasets for Portuguese LLMs: From Common Crawl Snapshots to Industrial-Grade Corpora | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2509.08824) | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/ClassiCC-Corpus/Curio-1.1b) | 
+| `Pajeu` | Experimenting with Large Language Models for Poetic Scansion in Portuguese: A Case Study on Metric and Rhythmic Structuring | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=CC&logoColor=white)](https://computationalcreativity.net/iccc25/wp-content/uploads/papers/iccc25-valenca2025experimenting.pdf) |  | 
 
 #### without Publication
 | Name | Github |
