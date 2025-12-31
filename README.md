@@ -48,7 +48,7 @@ If you find this survey helpful, please cite our work:
 Our survey provides a chronological examination of **Brazilian Portuguese LLMs**.
 
 <p align="center">
-  <img width="3284" height="1673" alt="Image" src="https://github.com/user-attachments/assets/d3a18c68-1a32-4646-876f-1fc7543e7578" />
+ <img width="3240" height="1760" alt="evolution" src="https://github.com/user-attachments/assets/286c1332-e880-42e2-a2b4-0a43b427897f" />
 </p>
 
 We organize the survey into the following main sections:
