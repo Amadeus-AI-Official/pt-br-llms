@@ -42,6 +42,7 @@ If you find this survey helpful, please cite our work:
   - [2023 Models](#2023-models)
   - [2024 Models](#2024-models)
   - [2025 Models](#2025-models)
+  - [2026 Models](#2026-models)
 
 ## 🗺️ Overview
 
@@ -59,6 +60,7 @@ We organize the survey into the following main sections:
 4. <u>PT-BR-LLMs produced in 2023</u>
 5. <u>PT-BR-LLMs produced in 2024</u>
 6. <u>PT-BR-LLMs produced in 2025</u>
+7. <u>PT-BR-LLMs produced in 2026</u>
 
 ## 📄 PT-BR-LLMs List
 
@@ -162,4 +164,17 @@ We organize the survey into the following main sections:
 | Name | Github |
 |:-:|:-|
 | `GAIA` | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/CEIA-UFG/Gemma-3-Gaia-PT-BR-4b-it) | 
+
+### 2026 Models
+
+| Name | Title | Paper | Github |
+|:-:|:-|:-:|:-:|
+| `NorBERTo` | NorBERTo: A ModernBERT Model Trained for Portuguese with 331 Billion Tokens Corpus | [![Paper](https://img.shields.io/badge/ACL-Anthology?color=red)](https://aclanthology.org/2026.propor-1.18/) | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/Itau-Unibanco/NorBERTo) |
+| `Tucano 2` | Tucano 2 Cool: Better Open Source LLMs for Portuguese | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.03543) | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/collections/Polygl0t/tucano2) |
+
+
+
+
+
+
 
