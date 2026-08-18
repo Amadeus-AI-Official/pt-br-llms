@@ -155,6 +155,12 @@ We organize the survey into the following main sections:
 | `Carcará` | Efficient Deployment of a 685B-Parameter OpenSource LLM on the Brazilian Santos Dumont Supercomputer | [![Paper](https://img.shields.io/badge/Research-Square-linkk?color=green)](https://doi.org/10.21203/rs.3.rs-6655308/v1) | [![GitHub Stars](https://img.shields.io/github/stars/gmmsb-lncc/carcara-sdumont?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/gmmsb-lncc/carcara-sdumont) | 
 | `Curió` | Building High-Quality Datasets for Portuguese LLMs: From Common Crawl Snapshots to Industrial-Grade Corpora | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2509.08824) | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/ClassiCC-Corpus/Curio-1.1b) | 
 | `Pajeu` | Experimenting with Large Language Models for Poetic Scansion in Portuguese: A Case Study on Metric and Rhythmic Structuring | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=CC&logoColor=white)](https://computationalcreativity.net/iccc25/wp-content/uploads/papers/iccc25-valenca2025experimenting.pdf) |  | 
+| `Bode Family` | The Bode Family of Large Language Models: Investigating the Frontiers of LLMs in Brazilian Portuguese | [![Paper](https://img.shields.io/badge/SBC-link?color=blue)](https://journals-sol.sbc.org.br/index.php/jbcs/article/view/5812) | |
+
+
+
+
+
 
 #### without Publication
 | Name | Github |
