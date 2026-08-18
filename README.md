@@ -9,6 +9,7 @@
 
 - **[2025-10-24]** 🔥 We are excited to introduce our chronological survey that collects papers and projects on Brazilian Portuguese LLMs!
 - **[2025-12-31]** 🎉 We update the list of papers of the survey! (CardioBERTpt, MedGemma-Sum-Pt, DepreBERTBR, Carcará, Curió, Pajeu)
+- **[2026-08-17]** 🎉 We update the list of papers of the survey! (BERTugues, Bode Family, ModBERTBr, NorBERTo, Tucano 2, Bode Reasoning, JabuticaBERT, CURUPIRA, Biatron, moBERTo)
 
 ## 🎈 Citation
 
