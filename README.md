@@ -175,12 +175,5 @@ We organize the survey into the following main sections:
 | `JabuticaBERT` | JabuticaBERT: Modern Portuguese Encoders from Scratch with RTD and Long-Context Training | [![Paper](https://img.shields.io/badge/ACL-Anthology?color=red)](https://aclanthology.org/2026.propor-1.93/) | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/collections/amadeusai/jabuticabert) |
 | `CURUPIRA` | CURUPIRA: Clever guard for harm and linguistic prompt mitigation in Brazilian Portuguese | [![Paper](https://img.shields.io/badge/ACL-Anthology?color=red)](https://aclanthology.org/2026.propor-1.107/) | |
 | `Biatron` | Biatron: A Parameter-Efficient Small Language Model for Brazilian Portuguese with Integrated Mathematical Reasoning | [![Paper](https://img.shields.io/badge/ACL-Anthology?color=red)](https://aclanthology.org/2026.propor-1.86/) | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/Biatron/biatron-345m) |
-
-
-
-
-
-
-
-
+| `moBERTo` | moBERTo: A Modern Encoder for Portuguese via Continued Pretraining of ModernBERT | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2606.22722v1) | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/Tropic-AI/moBERTo) |
 
