@@ -156,11 +156,7 @@ We organize the survey into the following main sections:
 | `Curió` | Building High-Quality Datasets for Portuguese LLMs: From Common Crawl Snapshots to Industrial-Grade Corpora | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2509.08824) | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/ClassiCC-Corpus/Curio-1.1b) | 
 | `Pajeu` | Experimenting with Large Language Models for Poetic Scansion in Portuguese: A Case Study on Metric and Rhythmic Structuring | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=CC&logoColor=white)](https://computationalcreativity.net/iccc25/wp-content/uploads/papers/iccc25-valenca2025experimenting.pdf) |  | 
 | `Bode Family` | The Bode Family of Large Language Models: Investigating the Frontiers of LLMs in Brazilian Portuguese | [![Paper](https://img.shields.io/badge/SBC-link?color=blue)](https://journals-sol.sbc.org.br/index.php/jbcs/article/view/5812) | |
-
-
-
-
-
+| `ModBERTBr` | ModBERTBr: A ModernBERT-based Model for Brazilian Portuguese | [![Paper](https://img.shields.io/badge/SBC-link?color=blue)](https://sol.sbc.org.br/index.php/eniac/article/view/38875) | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/wallacelw/ModBERTBr) |
 
 #### without Publication
 | Name | Github |
